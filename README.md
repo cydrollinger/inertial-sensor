@@ -1,9 +1,9 @@
 
 ![ER_LOGO](/docs/github.png)
 >Electronic Realization L.L.C.								   
->Design: Battery charger 4 Li cells		   
+>Design: 9 axis inertial sensor with bluetooth communication		   
 >Engineer: Cy Drollinger								   
->Date: 5/18												           
+>Date: 2/19												           
 >Email: cy@elec-real.com								   
 >Address: 2023 Stadium Dr Suite 2B #210 Bozeman, MT 59715				   
 >Phone: 406-539-8117	
@@ -15,11 +15,11 @@
  welcome to improve this design and repository, but, be advised ER is a professional design house and
  monetary compensation is required for additional work toward this design enabling your success.			   
 	 
-![Battery_charger](/hardware/eagleUp/BatChrgv1.png)
+![Inertial Sensor](/hardware/eagleUp/Earple/pucknbox.png)
 
 **PURPOSE:**
-This is a hardware design that is capable of charging 4 Li ion cells. The design employs four different circuits
-and charge currents: 100mA, 200mA, 400mA, and 800mA. The design files were created with Eagle Cadsoft v7.7 as a 
+This electronic system is capable of sampling inertial data from the mpu9250 at 1 kHz and storing to 
+a uSD card for GB storage, fatfs. The design files were created with Eagle Cadsoft v7.7 as a 
 two layer board. Free Eagle version would be capable of viewing, and editing these files for redesign. 
 
 >**File Arcitecture with a terse description**
@@ -37,5 +37,8 @@ two layer board. Free Eagle version would be capable of viewing, and editing the
 					* hundredUnits.txt	
 			* gerber	: files generated to manufacture the board
 			* https://oshpark.com/shared_projects/4os8OxLZ
+	*firmware
+	*software
+
 	* readme.md	: this file
 	
