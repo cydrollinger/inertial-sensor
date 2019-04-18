@@ -1,0 +1,128 @@
+
+
+   ---- Transcoding 'C:\Users\Cy\Documents\eagle\gerber\ERpuck\earpleSD\toppaste.gtp' ----   Mon Feb 18 14:17:45 2019
+
+D10   --> D100
+D11   --> D101
+D12   --> D102
+D13   --> D103
+D14   --> D104
+D15   --> D105
+D16   --> D106
+D17   --> D107
+D18   --> D108
+D19   --> D109
+D20   --> D110
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Cy\Documents\eagle\gerber\ERpuck\earpleSD\topstop.GTS' ----   Mon Feb 18 14:17:45 2019
+
+D10   --> D111
+D11   --> D112
+D12   --> D113
+D13   --> D114
+D14   --> D115
+D15   --> D116
+D16   --> D117
+D17   --> D118
+D18   --> D119
+D19   --> D120
+D20   --> D121
+D21   --> D122
+D22   --> D123
+D23   --> D124
+D24   --> D125
+D25   --> D126
+D26   --> D127
+D27   --> D128
+D28   --> D129
+D29   --> D130
+D30   --> D131
+D31   --> D132
+D32   --> D133
+D33   --> D134
+D34   --> D135
+D35   --> D136
+D36   --> D137
+D37   --> D138
+D38   --> D139
+D39   --> D140
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Cy\Documents\eagle\gerber\ERpuck\earpleSD\top.GTL' ----   Mon Feb 18 14:17:45 2019
+
+D10   --> D141
+D11   --> D142
+D12   --> D143
+D13   --> D144
+D14   --> D145
+D15   --> D146
+D16   --> D147
+D17   --> D148
+D18   --> D149
+D19   --> D150
+D20   --> D151
+D40   --> D152
+D42   --> D153
+D44   --> D154
+D45   --> D155
+D46   --> D156
+D48   --> D157
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Cy\Documents\eagle\gerber\ERpuck\earpleSD\bottom.GBL' ----   Mon Feb 18 14:17:45 2019
+
+D10   --> D158
+D11   --> D159
+D12   --> D160
+D15   --> D161
+D16   --> D162
+D17   --> D163
+D18   --> D164
+D19   --> D165
+D20   --> D166
+D21   --> D167
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Cy\Documents\eagle\gerber\ERpuck\earpleSD\botstop.GBS' ----   Mon Feb 18 14:17:45 2019
+
+D10   --> D168
+D11   --> D169
+D12   --> D170
+D13   --> D171
+D16   --> D172
+D17   --> D173
+D18   --> D174
+D19   --> D175
+D20   --> D176
+D21   --> D177
+D22   --> D178
+D23   --> D179
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Cy\Documents\eagle\gerber\ERpuck\earpleSD\botpaste.gbp' ----   Mon Feb 18 14:17:45 2019
+
+D10   --> D180
+D11   --> D181
+D12   --> D182
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Cy\Documents\eagle\gerber\ERpuck\earpleSD\botsilk.GBO' ----   Mon Feb 18 14:17:45 2019
+
+D10   --> D183
+D11   --> D184
+D12   --> D185
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Cy\Documents\eagle\gerber\ERpuck\earpleSD\outline.GKO' ----   Mon Feb 18 14:17:45 2019
+
+D10   --> D186
+D11   --> D187
+-----------------------------------------------------------------
