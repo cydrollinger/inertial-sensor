@@ -15,7 +15,7 @@
  welcome to improve this design and repository, but, be advised ER is a professional design house and
  monetary compensation is required for additional work toward this design enabling your success.			   
 	 
-![Inertial Sensor](/hardware/eagleUp/Earple/pucknbox.png)
+![Inertial Sensor](/hardware/eagleUp/Earple/pucknbox.jpg)
 
 **PURPOSE:**
 This electronic system is capable of sampling inertial data from the mpu9250 at 1 kHz and storing to 
