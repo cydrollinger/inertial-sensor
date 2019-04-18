@@ -36,7 +36,7 @@ two layer board. Free Eagle version would be capable of viewing, and editing the
 					* batteryv1.1.csv	: digikey order
 					* hundredUnits.txt	
 			* gerber	: files generated to manufacture the board
-			* https://oshpark.com/shared_projects/4os8OxLZ
+			* <a href="https://oshpark.com/shared_projects/Yydb06ED"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park"></img></a>
 	*firmware
 	*software
 
