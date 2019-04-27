@@ -1,4 +1,4 @@
-<a href="https://elec-real.com"><img src="/docs/github.png" ></img></a>
+<a href="https://elec-real.com/case-studies/9-axis-inertial-data-logger/"><img src="/docs/github.png" ></img></a>
 
 >Electronic Realization L.L.C.								   
 >Design: 9 axis inertial sensor with bluetooth communication		   
